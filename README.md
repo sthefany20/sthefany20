@@ -9,3 +9,4 @@ meu nome e sthefany victoria
 ### você entrar em contato:📫
 
 0000109027127XSP@al.educacao.sp.gov.br
+![](![image](https://github.com/user-attachments/assets/bfcc3220-3264-45ae-8ae2-49d9e5b8724f)
