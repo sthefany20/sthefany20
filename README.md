@@ -2,7 +2,7 @@
 
 meu nome e sthefany victoria 
 
--estou estudando no alura https://github.com/sthefany20/sthefany20
+-estou estudando no [alura](https://www.alura.com.br) https://github.com/sthefany20/sthefany20
 -estou me desenvolvimento na linguangem javasript
 -utilizo esse espaço para minha organização e compartilha dos meus projetos desenvolvidos
 
